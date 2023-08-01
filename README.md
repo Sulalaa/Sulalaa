@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sulalaa
-- 👀 I’m interested in Artificial Inteligence    
+- 👀 I’m interested in Artificial Intelligence    
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Artificial Inteligence
+- 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me Email:muhammadabdulhanan.mahk@gmail.com
 
 <!---
